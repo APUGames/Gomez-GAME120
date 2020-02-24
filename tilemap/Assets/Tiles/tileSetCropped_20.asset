@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: tileSetCropped_20
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 3306058311066154777, guid: a08a27509a0971244a430c41c1b00bb0,
+  m_Sprite: {fileID: 3306058311066154777, guid: 7f079910aa806d0469618d0e833da9c4,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
